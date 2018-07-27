@@ -1,0 +1,34 @@
+{
+  "name": "imstate",
+  "version": "1.0.3",
+  "description": "Immutable state",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linq2js/imstate.git"
+  },
+  "keywords": [
+    "app state",
+    "application state",
+    "state management",
+    "es6",
+    "immutable"
+  ],
+  "author": "linq2js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linq2js/imstate/issues"
+  },
+  "homepage": "https://github.com/linq2js/imstate#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "immer": "^1.5.0",
+    "react": "^16.4.1"
+  }
+}
